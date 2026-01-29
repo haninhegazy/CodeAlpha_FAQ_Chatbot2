@@ -1,2 +1,14 @@
-# CodeAlpha_FAQ_Chatbot2
-This project is an AI-powered FAQ chatbot developed using Python and Natural Language Processing (NLP). It uses cosine similarity to provide accurate responses to user questions.
+# FAQ Chatbot
+
+An AI-based FAQ chatbot developed using Python and NLP techniques.
+
+## Features
+- Answers user questions based on predefined FAQs
+- Uses cosine similarity for best matching
+- Simple text-based interaction
+
+## Technologies Used
+- Python
+- NLTK
+- Scikit-learn
+- Google Colab
